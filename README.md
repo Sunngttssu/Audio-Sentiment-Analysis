@@ -37,3 +37,4 @@ Example audio files are provided to demonstrate prediction performance.
 
 You can also test the model with your own voice samples by placing them in a test directory and following the feature extraction format.
 ### 📌 Note: Emotion classes are label-encoded from 0 to 7, corresponding to:
+0: neutral, 1: calm, 2: happy, 3: sad, 4: angry, 5: fearful, 6: disgust, 7: surprised
