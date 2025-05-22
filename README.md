@@ -2,7 +2,7 @@
 
 ## 🎙️ Overview
 
-Understanding emotions through voice is a key aspect of building human-centered AI systems. This project explores Speech Emotion Recognition (SER) using Machine Learning and Deep Learning techniques, trained on the RAVDESS and TESS datasets. The goal is to automatically detect emotions from speech signals and enhance emotional intelligence in AI applications.
+Understanding emotions through voice is a key aspect of building human-centered AI systems. This project explores Speech Emotion Recognition (SER) using Machine Learning and Deep Learning techniques, trained on the RAVDESS and TESS datasets using a CNN Architecture to train and test the model. The goal is to automatically detect emotions from speech signals and enhance emotional intelligence in AI applications.
 
 ## 📊 Feature Set and Dataset Details
 
