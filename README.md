@@ -13,11 +13,11 @@ The dataset for this project consists of 5,252 audio samples, sourced from:
 * Performed by 24 professional actors (12 male, 12 female).
 * Covers 8 emotions: neutral, calm, happy, sad, angry, fearful, disgust, and surprised.
 * Each file is validated on emotional accuracy, intensity, and genuineness by over 200 participants.
-* Dataset source
+* [Dataset source](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
 
 🗂️ TESS (Toronto Emotional Speech Set)
 * Contains 2,800 speech recordings.
 * Spoken by 2 female actors, aged 26 and 64.
 * Emotions include: anger, disgust, fear, happiness, pleasant surprise, sadness, and neutral.
 * Data collected in a controlled environment, both actors are musically trained and fluent in English.
-* Dataset source
+* [Dataset source](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess)
