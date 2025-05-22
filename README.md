@@ -38,3 +38,20 @@ Example audio files are provided to demonstrate prediction performance.
 You can also test the model with your own voice samples by placing them in a test directory and following the feature extraction format.
 ### 📌 Note: Emotion classes are label-encoded from 0 to 7, corresponding to:
         0: neutral, 1: calm, 2: happy, 3: sad, 4: angry, 5: fearful, 6: disgust, 7: surprised
+
+## 👨‍💻 Contributors
+Contributions are welcome! Feel free to fork the repository, submit pull requests, or report issues.
+
+## 📄 License
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this software with proper attribution.
+
+© 2025 V. K. Shivaang Simha
+For full license details, see the [LICENSE](https://opensource.org/license/MIT) file.
+
+## 🙏 Acknowledgment
+Special thanks to the creators of the RAVDESS and TESS datasets for making high-quality emotional speech data publicly available.
+
+Inspiration and reference drawn from various open-source Speech Emotion Recognition projects and the Librosa and Scikit-learn communities.
+
+Thanks to the open-source community for providing accessible ML and DL resources.
