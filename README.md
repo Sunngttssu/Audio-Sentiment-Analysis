@@ -26,3 +26,14 @@ The dataset for this project consists of 5,252 audio samples, sourced from:
 * Features extracted using MFCCs (Mel-Frequency Cepstral Coefficients) via Librosa.
 * Classification using Machine Learning models like SVM, KNN, and Random Forest.
 * Performance metrics include accuracy score, confusion matrix, and classification report.
+
+## 📉 Model Metrics
+* Loss and Accuracy plots: Track training progress and convergence.
+* Classification report: Includes precision, recall, and F1-score for each emotion class.
+* Confusion matrix: Visualizes model predictions vs. actual labels.
+
+## 🎧 Testing the Model
+Example audio files are provided to demonstrate prediction performance.
+
+You can also test the model with your own voice samples by placing them in a test directory and following the feature extraction format.
+### 📌 Note: Emotion classes are label-encoded from 0 to 7, corresponding to:
