@@ -21,3 +21,8 @@ The dataset for this project consists of 5,252 audio samples, sourced from:
 * Emotions include: anger, disgust, fear, happiness, pleasant surprise, sadness, and neutral.
 * Data collected in a controlled environment, both actors are musically trained and fluent in English.
 * [Dataset source](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess)
+
+## 🧠 Model Summary
+* Features extracted using MFCCs (Mel-Frequency Cepstral Coefficients) via Librosa.
+* Classification using Machine Learning models like SVM, KNN, and Random Forest.
+* Performance metrics include accuracy score, confusion matrix, and classification report.
