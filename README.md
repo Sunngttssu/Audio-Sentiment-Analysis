@@ -47,11 +47,10 @@ This project is licensed under the MIT License.
 You are free to use, modify, and distribute this software with proper attribution.
 
 © 2025 V. K. Shivaang Simha
+
 For full license details, see the [LICENSE](https://opensource.org/license/MIT) file.
 
 ## 🙏 Acknowledgment
-Special thanks to the creators of the RAVDESS and TESS datasets for making high-quality emotional speech data publicly available.
-
-Inspiration and reference drawn from various open-source Speech Emotion Recognition projects and the Librosa and Scikit-learn communities.
-
-Thanks to the open-source community for providing accessible ML and DL resources.
+* Special thanks to the creators of the RAVDESS and TESS datasets for making high-quality emotional speech data publicly available.
+* Inspiration and reference drawn from various open-source Speech Emotion Recognition projects and the Librosa and Scikit-learn communities.
+* Thanks to the open-source community for providing accessible ML and DL resources.
